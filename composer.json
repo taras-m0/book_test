@@ -1,0 +1,21 @@
+{
+    "name": "taras/testwork",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "taras",
+            "email": "taras.m0@yandex.ru"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "~3.1"
+    },
+    "autoload": {
+        "classmap": [
+            ""
+        ],
+        "psr-4": {
+            "\\": ""
+        }
+    }
+}
